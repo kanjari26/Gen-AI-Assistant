@@ -1,0 +1,8 @@
+# requirements.txt
+streamlit
+langchain
+pypdf
+faiss-cpu
+sentence-transformers
+python-dotenv
+langchain-google-genai # New package for gemini integrations
